@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=navecita
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nave\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=navecita()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ actualizarPosicion()
+comment3.text=\r\n\ Este\ medodo\ se\ encarga\ de\ actulizar\ la\ posici\u00F3n\ de\ la\ Nave\ acorde\ a\ la\ tecla\ presionada\r\n\ \r\n
+comment4.params=
+comment4.target=void\ disparador()
+comment5.params=
+comment5.target=void\ Launch()
+numComments=6
